@@ -1,0 +1,10 @@
+C:\Users\TuF\Desktop\Programs\ШАГ\ДЗ ШАГ\ДЗ системное прогр\ДЗ 3\UsingAppDomains\TextDrawer\bin\Debug\TextDrawer.exe.config
+C:\Users\TuF\Desktop\Programs\ШАГ\ДЗ ШАГ\ДЗ системное прогр\ДЗ 3\UsingAppDomains\TextDrawer\bin\Debug\TextDrawer.exe
+C:\Users\TuF\Desktop\Programs\ШАГ\ДЗ ШАГ\ДЗ системное прогр\ДЗ 3\UsingAppDomains\TextDrawer\bin\Debug\TextDrawer.pdb
+C:\Users\TuF\Desktop\Programs\ШАГ\ДЗ ШАГ\ДЗ системное прогр\ДЗ 3\UsingAppDomains\TextDrawer\obj\Debug\TextDrawer.csproj.AssemblyReference.cache
+C:\Users\TuF\Desktop\Programs\ШАГ\ДЗ ШАГ\ДЗ системное прогр\ДЗ 3\UsingAppDomains\TextDrawer\obj\Debug\TextDrawer.Form1.resources
+C:\Users\TuF\Desktop\Programs\ШАГ\ДЗ ШАГ\ДЗ системное прогр\ДЗ 3\UsingAppDomains\TextDrawer\obj\Debug\TextDrawer.Properties.Resources.resources
+C:\Users\TuF\Desktop\Programs\ШАГ\ДЗ ШАГ\ДЗ системное прогр\ДЗ 3\UsingAppDomains\TextDrawer\obj\Debug\TextDrawer.csproj.GenerateResource.cache
+C:\Users\TuF\Desktop\Programs\ШАГ\ДЗ ШАГ\ДЗ системное прогр\ДЗ 3\UsingAppDomains\TextDrawer\obj\Debug\TextDrawer.csproj.CoreCompileInputs.cache
+C:\Users\TuF\Desktop\Programs\ШАГ\ДЗ ШАГ\ДЗ системное прогр\ДЗ 3\UsingAppDomains\TextDrawer\obj\Debug\TextDrawer.exe
+C:\Users\TuF\Desktop\Programs\ШАГ\ДЗ ШАГ\ДЗ системное прогр\ДЗ 3\UsingAppDomains\TextDrawer\obj\Debug\TextDrawer.pdb

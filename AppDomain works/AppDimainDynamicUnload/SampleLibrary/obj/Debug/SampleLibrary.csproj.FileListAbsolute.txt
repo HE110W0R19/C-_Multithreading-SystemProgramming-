@@ -1,0 +1,6 @@
+C:\Users\TuF\Desktop\Programs\ШАГ\ДЗ ШАГ\ДЗ системное прогр\ДЗ 3\AppDimainDynamicUnload\SampleLibrary\bin\Debug\SampleLibrary.dll
+C:\Users\TuF\Desktop\Programs\ШАГ\ДЗ ШАГ\ДЗ системное прогр\ДЗ 3\AppDimainDynamicUnload\SampleLibrary\bin\Debug\SampleLibrary.pdb
+C:\Users\TuF\Desktop\Programs\ШАГ\ДЗ ШАГ\ДЗ системное прогр\ДЗ 3\AppDimainDynamicUnload\SampleLibrary\obj\Debug\SampleLibrary.csproj.AssemblyReference.cache
+C:\Users\TuF\Desktop\Programs\ШАГ\ДЗ ШАГ\ДЗ системное прогр\ДЗ 3\AppDimainDynamicUnload\SampleLibrary\obj\Debug\SampleLibrary.csproj.CoreCompileInputs.cache
+C:\Users\TuF\Desktop\Programs\ШАГ\ДЗ ШАГ\ДЗ системное прогр\ДЗ 3\AppDimainDynamicUnload\SampleLibrary\obj\Debug\SampleLibrary.dll
+C:\Users\TuF\Desktop\Programs\ШАГ\ДЗ ШАГ\ДЗ системное прогр\ДЗ 3\AppDimainDynamicUnload\SampleLibrary\obj\Debug\SampleLibrary.pdb

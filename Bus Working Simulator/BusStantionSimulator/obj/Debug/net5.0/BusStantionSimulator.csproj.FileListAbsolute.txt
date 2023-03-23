@@ -1,0 +1,16 @@
+C:\Users\TuF\source\repos\BusStantionSimulator\BusStantionSimulator\bin\Debug\net5.0\BusStantionSimulator.exe
+C:\Users\TuF\source\repos\BusStantionSimulator\BusStantionSimulator\bin\Debug\net5.0\BusStantionSimulator.deps.json
+C:\Users\TuF\source\repos\BusStantionSimulator\BusStantionSimulator\bin\Debug\net5.0\BusStantionSimulator.runtimeconfig.json
+C:\Users\TuF\source\repos\BusStantionSimulator\BusStantionSimulator\bin\Debug\net5.0\BusStantionSimulator.runtimeconfig.dev.json
+C:\Users\TuF\source\repos\BusStantionSimulator\BusStantionSimulator\bin\Debug\net5.0\BusStantionSimulator.dll
+C:\Users\TuF\source\repos\BusStantionSimulator\BusStantionSimulator\bin\Debug\net5.0\ref\BusStantionSimulator.dll
+C:\Users\TuF\source\repos\BusStantionSimulator\BusStantionSimulator\bin\Debug\net5.0\BusStantionSimulator.pdb
+C:\Users\TuF\source\repos\BusStantionSimulator\BusStantionSimulator\obj\Debug\net5.0\BusStantionSimulator.csproj.AssemblyReference.cache
+C:\Users\TuF\source\repos\BusStantionSimulator\BusStantionSimulator\obj\Debug\net5.0\BusStantionSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TuF\source\repos\BusStantionSimulator\BusStantionSimulator\obj\Debug\net5.0\BusStantionSimulator.AssemblyInfoInputs.cache
+C:\Users\TuF\source\repos\BusStantionSimulator\BusStantionSimulator\obj\Debug\net5.0\BusStantionSimulator.AssemblyInfo.cs
+C:\Users\TuF\source\repos\BusStantionSimulator\BusStantionSimulator\obj\Debug\net5.0\BusStantionSimulator.csproj.CoreCompileInputs.cache
+C:\Users\TuF\source\repos\BusStantionSimulator\BusStantionSimulator\obj\Debug\net5.0\BusStantionSimulator.dll
+C:\Users\TuF\source\repos\BusStantionSimulator\BusStantionSimulator\obj\Debug\net5.0\ref\BusStantionSimulator.dll
+C:\Users\TuF\source\repos\BusStantionSimulator\BusStantionSimulator\obj\Debug\net5.0\BusStantionSimulator.pdb
+C:\Users\TuF\source\repos\BusStantionSimulator\BusStantionSimulator\obj\Debug\net5.0\BusStantionSimulator.genruntimeconfig.cache

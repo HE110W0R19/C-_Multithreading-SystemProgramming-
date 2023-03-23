@@ -1,0 +1,9 @@
+C:\Users\TuF\Desktop\Programs\ШАГ\ДЗ ШАГ\ДЗ системное прогр\ДЗ 3\UsingAppDomains\UsingAppDomains\obj\Debug\UsingAppDomains.csproj.AssemblyReference.cache
+C:\Users\TuF\Desktop\Programs\ШАГ\ДЗ ШАГ\ДЗ системное прогр\ДЗ 3\UsingAppDomains\UsingAppDomains\obj\Debug\UsingAppDomains.Properties.Resources.resources
+C:\Users\TuF\Desktop\Programs\ШАГ\ДЗ ШАГ\ДЗ системное прогр\ДЗ 3\UsingAppDomains\UsingAppDomains\obj\Debug\UsingAppDomains.csproj.GenerateResource.cache
+C:\Users\TuF\Desktop\Programs\ШАГ\ДЗ ШАГ\ДЗ системное прогр\ДЗ 3\UsingAppDomains\UsingAppDomains\obj\Debug\UsingAppDomains.csproj.CoreCompileInputs.cache
+C:\Users\TuF\Desktop\Programs\ШАГ\ДЗ ШАГ\ДЗ системное прогр\ДЗ 3\UsingAppDomains\UsingAppDomains\bin\Debug\UsingAppDomains.exe.config
+C:\Users\TuF\Desktop\Programs\ШАГ\ДЗ ШАГ\ДЗ системное прогр\ДЗ 3\UsingAppDomains\UsingAppDomains\bin\Debug\UsingAppDomains.exe
+C:\Users\TuF\Desktop\Programs\ШАГ\ДЗ ШАГ\ДЗ системное прогр\ДЗ 3\UsingAppDomains\UsingAppDomains\bin\Debug\UsingAppDomains.pdb
+C:\Users\TuF\Desktop\Programs\ШАГ\ДЗ ШАГ\ДЗ системное прогр\ДЗ 3\UsingAppDomains\UsingAppDomains\obj\Debug\UsingAppDomains.exe
+C:\Users\TuF\Desktop\Programs\ШАГ\ДЗ ШАГ\ДЗ системное прогр\ДЗ 3\UsingAppDomains\UsingAppDomains\obj\Debug\UsingAppDomains.pdb

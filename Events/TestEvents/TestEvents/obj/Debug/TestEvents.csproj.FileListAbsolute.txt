@@ -1,0 +1,7 @@
+C:\Users\TuF\Desktop\Programs\ШАГ\ДЗ ШАГ\ДЗ системное прогр\ДЗ 6\TestEvents\TestEvents\bin\Debug\TestEvents.exe.config
+C:\Users\TuF\Desktop\Programs\ШАГ\ДЗ ШАГ\ДЗ системное прогр\ДЗ 6\TestEvents\TestEvents\bin\Debug\TestEvents.exe
+C:\Users\TuF\Desktop\Programs\ШАГ\ДЗ ШАГ\ДЗ системное прогр\ДЗ 6\TestEvents\TestEvents\bin\Debug\TestEvents.pdb
+C:\Users\TuF\Desktop\Programs\ШАГ\ДЗ ШАГ\ДЗ системное прогр\ДЗ 6\TestEvents\TestEvents\obj\Debug\TestEvents.csproj.AssemblyReference.cache
+C:\Users\TuF\Desktop\Programs\ШАГ\ДЗ ШАГ\ДЗ системное прогр\ДЗ 6\TestEvents\TestEvents\obj\Debug\TestEvents.csproj.CoreCompileInputs.cache
+C:\Users\TuF\Desktop\Programs\ШАГ\ДЗ ШАГ\ДЗ системное прогр\ДЗ 6\TestEvents\TestEvents\obj\Debug\TestEvents.exe
+C:\Users\TuF\Desktop\Programs\ШАГ\ДЗ ШАГ\ДЗ системное прогр\ДЗ 6\TestEvents\TestEvents\obj\Debug\TestEvents.pdb

@@ -1,0 +1,9 @@
+C:\Users\TuF\Desktop\Programs\ШАГ\ДЗ ШАГ\ДЗ системное прогр\ДЗ 3\UsingAppDomains\TextWindow\obj\Debug\TextWindow.Form1.resources
+C:\Users\TuF\Desktop\Programs\ШАГ\ДЗ ШАГ\ДЗ системное прогр\ДЗ 3\UsingAppDomains\TextWindow\obj\Debug\TextWindow.Properties.Resources.resources
+C:\Users\TuF\Desktop\Programs\ШАГ\ДЗ ШАГ\ДЗ системное прогр\ДЗ 3\UsingAppDomains\TextWindow\obj\Debug\TextWindow.csproj.GenerateResource.cache
+C:\Users\TuF\Desktop\Programs\ШАГ\ДЗ ШАГ\ДЗ системное прогр\ДЗ 3\UsingAppDomains\TextWindow\obj\Debug\TextWindow.csproj.CoreCompileInputs.cache
+C:\Users\TuF\Desktop\Programs\ШАГ\ДЗ ШАГ\ДЗ системное прогр\ДЗ 3\UsingAppDomains\TextWindow\bin\Debug\TextWindow.exe.config
+C:\Users\TuF\Desktop\Programs\ШАГ\ДЗ ШАГ\ДЗ системное прогр\ДЗ 3\UsingAppDomains\TextWindow\bin\Debug\TextWindow.exe
+C:\Users\TuF\Desktop\Programs\ШАГ\ДЗ ШАГ\ДЗ системное прогр\ДЗ 3\UsingAppDomains\TextWindow\bin\Debug\TextWindow.pdb
+C:\Users\TuF\Desktop\Programs\ШАГ\ДЗ ШАГ\ДЗ системное прогр\ДЗ 3\UsingAppDomains\TextWindow\obj\Debug\TextWindow.exe
+C:\Users\TuF\Desktop\Programs\ШАГ\ДЗ ШАГ\ДЗ системное прогр\ДЗ 3\UsingAppDomains\TextWindow\obj\Debug\TextWindow.pdb

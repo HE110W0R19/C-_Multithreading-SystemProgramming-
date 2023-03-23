@@ -1,0 +1,7 @@
+C:\Users\TuF\Desktop\Programs\ШАГ\ДЗ ШАГ\ДЗ системное прогр\ДЗ 3\AppDimainDynamicUnload\AppDimainDynamicUnload\bin\Debug\AppDimainDynamicUnload.exe.config
+C:\Users\TuF\Desktop\Programs\ШАГ\ДЗ ШАГ\ДЗ системное прогр\ДЗ 3\AppDimainDynamicUnload\AppDimainDynamicUnload\bin\Debug\AppDimainDynamicUnload.exe
+C:\Users\TuF\Desktop\Programs\ШАГ\ДЗ ШАГ\ДЗ системное прогр\ДЗ 3\AppDimainDynamicUnload\AppDimainDynamicUnload\bin\Debug\AppDimainDynamicUnload.pdb
+C:\Users\TuF\Desktop\Programs\ШАГ\ДЗ ШАГ\ДЗ системное прогр\ДЗ 3\AppDimainDynamicUnload\AppDimainDynamicUnload\obj\Debug\AppDimainDynamicUnload.csproj.AssemblyReference.cache
+C:\Users\TuF\Desktop\Programs\ШАГ\ДЗ ШАГ\ДЗ системное прогр\ДЗ 3\AppDimainDynamicUnload\AppDimainDynamicUnload\obj\Debug\AppDimainDynamicUnload.csproj.CoreCompileInputs.cache
+C:\Users\TuF\Desktop\Programs\ШАГ\ДЗ ШАГ\ДЗ системное прогр\ДЗ 3\AppDimainDynamicUnload\AppDimainDynamicUnload\obj\Debug\AppDimainDynamicUnload.exe
+C:\Users\TuF\Desktop\Programs\ШАГ\ДЗ ШАГ\ДЗ системное прогр\ДЗ 3\AppDimainDynamicUnload\AppDimainDynamicUnload\obj\Debug\AppDimainDynamicUnload.pdb

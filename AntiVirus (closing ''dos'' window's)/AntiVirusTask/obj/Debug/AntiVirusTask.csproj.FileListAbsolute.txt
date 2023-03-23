@@ -1,0 +1,10 @@
+C:\Users\TuF\source\repos\AntiVirusTask\AntiVirusTask\bin\Debug\AntiVirusTask.exe.config
+C:\Users\TuF\source\repos\AntiVirusTask\AntiVirusTask\bin\Debug\AntiVirusTask.exe
+C:\Users\TuF\source\repos\AntiVirusTask\AntiVirusTask\bin\Debug\AntiVirusTask.pdb
+C:\Users\TuF\source\repos\AntiVirusTask\AntiVirusTask\obj\Debug\AntiVirusTask.csproj.AssemblyReference.cache
+C:\Users\TuF\source\repos\AntiVirusTask\AntiVirusTask\obj\Debug\AntiVirusTask.Form1.resources
+C:\Users\TuF\source\repos\AntiVirusTask\AntiVirusTask\obj\Debug\AntiVirusTask.Properties.Resources.resources
+C:\Users\TuF\source\repos\AntiVirusTask\AntiVirusTask\obj\Debug\AntiVirusTask.csproj.GenerateResource.cache
+C:\Users\TuF\source\repos\AntiVirusTask\AntiVirusTask\obj\Debug\AntiVirusTask.csproj.CoreCompileInputs.cache
+C:\Users\TuF\source\repos\AntiVirusTask\AntiVirusTask\obj\Debug\AntiVirusTask.exe
+C:\Users\TuF\source\repos\AntiVirusTask\AntiVirusTask\obj\Debug\AntiVirusTask.pdb

@@ -1,0 +1,10 @@
+C:\Users\TuF\source\repos\SystemCodingWinWorm\SystemCodingWinWorm\bin\Debug\SystemCodingWinWorm.exe.config
+C:\Users\TuF\source\repos\SystemCodingWinWorm\SystemCodingWinWorm\bin\Debug\SystemCodingWinWorm.exe
+C:\Users\TuF\source\repos\SystemCodingWinWorm\SystemCodingWinWorm\bin\Debug\SystemCodingWinWorm.pdb
+C:\Users\TuF\source\repos\SystemCodingWinWorm\SystemCodingWinWorm\obj\Debug\SystemCodingWinWorm.csproj.AssemblyReference.cache
+C:\Users\TuF\source\repos\SystemCodingWinWorm\SystemCodingWinWorm\obj\Debug\SystemCodingWinWorm.Properties.Resources.resources
+C:\Users\TuF\source\repos\SystemCodingWinWorm\SystemCodingWinWorm\obj\Debug\SystemCodingWinWorm.csproj.GenerateResource.cache
+C:\Users\TuF\source\repos\SystemCodingWinWorm\SystemCodingWinWorm\obj\Debug\SystemCodingWinWorm.csproj.CoreCompileInputs.cache
+C:\Users\TuF\source\repos\SystemCodingWinWorm\SystemCodingWinWorm\obj\Debug\SystemCodingWinWorm.exe
+C:\Users\TuF\source\repos\SystemCodingWinWorm\SystemCodingWinWorm\obj\Debug\SystemCodingWinWorm.pdb
+C:\Users\TuF\source\repos\SystemCodingWinWorm\SystemCodingWinWorm\obj\Debug\SystemCodingWinWorm.Form1.resources

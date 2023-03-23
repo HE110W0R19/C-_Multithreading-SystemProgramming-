@@ -1,0 +1,7 @@
+C:\Users\TuF\Desktop\Programs\ШАГ\ДЗ ШАГ\ДЗ системное прогр\ДЗ 4\ConsoleApp1\UsingLock\bin\Debug\UsingLock.exe.config
+C:\Users\TuF\Desktop\Programs\ШАГ\ДЗ ШАГ\ДЗ системное прогр\ДЗ 4\ConsoleApp1\UsingLock\bin\Debug\UsingLock.exe
+C:\Users\TuF\Desktop\Programs\ШАГ\ДЗ ШАГ\ДЗ системное прогр\ДЗ 4\ConsoleApp1\UsingLock\bin\Debug\UsingLock.pdb
+C:\Users\TuF\Desktop\Programs\ШАГ\ДЗ ШАГ\ДЗ системное прогр\ДЗ 4\ConsoleApp1\UsingLock\obj\Debug\UsingLock.csproj.CoreCompileInputs.cache
+C:\Users\TuF\Desktop\Programs\ШАГ\ДЗ ШАГ\ДЗ системное прогр\ДЗ 4\ConsoleApp1\UsingLock\obj\Debug\UsingLock.exe
+C:\Users\TuF\Desktop\Programs\ШАГ\ДЗ ШАГ\ДЗ системное прогр\ДЗ 4\ConsoleApp1\UsingLock\obj\Debug\UsingLock.pdb
+C:\Users\TuF\Desktop\Programs\ШАГ\ДЗ ШАГ\ДЗ системное прогр\ДЗ 4\ConsoleApp1\UsingLock\obj\Debug\UsingLock.csproj.AssemblyReference.cache
